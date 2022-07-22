@@ -1,2 +1,3 @@
 # reactive-pokemon
-Created with CodeSandbox
+
+React Perform practice, using memo, useMemo and useCallback
